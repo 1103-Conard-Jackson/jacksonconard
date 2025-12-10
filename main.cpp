@@ -1,4 +1,4 @@
-// Jackson Conard
+// Jackson Conard and i had no partner
 #include <iostream>
 using namespace std;
 #include "myfunctions.h"
